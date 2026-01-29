@@ -24,8 +24,8 @@ Sistema web completo para la gestión de beneficiarios de programas sociales mul
 Antes de comenzar, asegúrate de tener instalado:
 
 - [Node.js](https://nodejs.org/) (v18 o superior)
-- [.NET SDK 9.0](https://dotnet.microsoft.com/download)
-- [SQL Server 2022 Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
+- [.NET SDK 10.0](https://dotnet.microsoft.com/download)
+- [SQL Server 2025 Express](https://www.microsoft.com/es-es/sql-server/sql-server-downloads)
 - [SQL Server Management Studio (SSMS)](https://aka.ms/ssmsfullsetup)
 - [Git](https://git-scm.com/)
 
